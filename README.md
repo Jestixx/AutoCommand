@@ -10,8 +10,11 @@ To change the application do the following:
     Keyboard.press('')
     Keyboard.release('')
   In the quotations add any letter do type or run a shorcut eg
+  
     Keyboard.press('M')
-    Keyboard.release('M').
+    Keyboard.release('M')
+  (Note, both of the letters should be the exact same)
+  
   (Note, For enter you have to remove the quotes and replace it with (keyboard.enter))
   
   After than when you run the code it will work.
